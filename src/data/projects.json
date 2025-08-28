@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Cedar Deck with Rail",
+    "category": "decks",
+    "location": "Baldwinsville",
+    "summary": "12×16 cedar deck with pressure-treated frame and black rail.",
+    "images": [
+      "/images/projects/decks/deck-1a.jpg",
+      "/images/projects/decks/deck-1b.jpg",
+      "/images/projects/decks/deck-1c.jpg"
+    ]
+  },
+  {
+    "title": "Composite Wraparound",
+    "category": "decks",
+    "location": "Liverpool",
+    "summary": "Low-maintenance composite boards and hidden fasteners.",
+    "images": [
+      "/images/projects/decks/deck-2a.jpg",
+      "/images/projects/decks/deck-2b.jpg"
+    ]
+  },
+  {
+    "title": "Shingle Roof Replacement",
+    "category": "roofing",
+    "location": "Syracuse",
+    "summary": "Full tear-off, ice & water shield, architectural shingles.",
+    "images": [
+      "/images/projects/roofing/roof-1a.jpg",
+      "/images/projects/roofing/roof-1b.jpg"
+    ]
+  }
+]
+

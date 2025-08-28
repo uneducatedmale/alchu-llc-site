@@ -1,0 +1,8 @@
+[
+  { "title": "Decks", "slug": "decks", "blurb": "Composite or wood. New builds and repairs.", "coverImage": "/images/services/decks.jpg" },
+  { "title": "Roofing", "slug": "roofing", "blurb": "Replacements and repairs with clean tear offs.", "coverImage": "/images/services/roofing.jpg" },
+  { "title": "Interior Remodeling", "slug": "interior-remodeling", "blurb": "Kitchens, baths, drywall, trim.", "coverImage": "/images/services/remodel.jpg" },
+  { "title": "Tile", "slug": "tile", "blurb": "Floors, showers, backsplashes.", "coverImage": "/images/services/tile.jpg" },
+  { "title": "Painting", "slug": "painting", "blurb": "Interior and exterior with careful prep.", "coverImage": "/images/services/painting.jpg" },
+  { "title": "Concrete", "slug": "concrete", "blurb": "Pads, walkways, small pours.", "coverImage": "/images/services/concrete.jpg" }
+]
